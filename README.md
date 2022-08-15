@@ -7,7 +7,7 @@ web端抖音直播protobuf解析
 
     1.在web端随便找个直播间,找到ws
     ![image](https://github.com/nmsdss/douyin_live_protobuf/blob/main/images/20220815125530.png)
-    2.只一个接收到的数据,复制base64,然后粘贴到`demo.py`里面
+    2.找一个接收到的数据,复制base64,然后粘贴到`demo.py`里面
     ![image](https://github.com/nmsdss/douyin_live_protobuf/blob/main/images/20220815125922.png)
     3.运行`demo.py`
 
